@@ -16,4 +16,4 @@
 
 <br/>
 
-🖥️ Profil LinkedIn : [abinayan-arudselvam](www.linkedin.com/in/abinayan-arudselvam) 
+🖥️ Profil LinkedIn : [abinayan-arudselvam](https://www.linkedin.com/in/abinayan-arudselvam/) 

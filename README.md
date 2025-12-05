@@ -8,7 +8,7 @@
 
 <br/>
 
-- 🎓 Étudiant en BTS [CIEL-ER](https://www.onisep.fr/ressources/univers-formation/formations/post-bac/bts-cybersecurite-informatique-et-reseaux-electronique-option-b-electronique-et-reseaux) *(Cybersécurité, Informatique et réseaux, Électronique)* option B au lycée Dorian, Paris.
+- 🎓 Étudiant en BTS [CIEL-ER](https://www.onisep.fr/ressources/univers-formation/formations/post-bac/bts-cybersecurite-informatique-et-reseaux-electronique-option-b-electronique-et-reseaux) *(Cybersécurité, Informatique et réseaux, Électronique)* au lycée Dorian, Paris.
 - 🔭 Je fais plein de petit projet personnel et poste en GitHub.
 - Mes intérêts : `📷 Photographie` `✏️ Sketching` `🤸‍♂️ Calisthénie` `🎵 Musique`
 - Mon personnalité : `INFJ`
